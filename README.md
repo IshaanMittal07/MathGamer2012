@@ -62,7 +62,7 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.worldvectorlogo.com/logos/jquery-4.svg" height="40" alt="Jquery"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png" height="40" alt="Bootstrap"  />
+  <img src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png" height="40" alt="Bootstrap"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
   <img width="12" />
