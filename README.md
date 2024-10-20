@@ -13,20 +13,20 @@ Hello! My name is Ishaan Mittal and I am currently a grade 12 student attending 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ishaan-mittal-b6bb47330/">
-  <img src="https://www.citypng.com/public/uploads/preview/download-linkedin-square-purple-icon-png-701751694974001rjxj2ew7jc.png" height="40" alt="Link"  /> </a>
+  <img src="https://img.icons8.com/win8/200/7950F2/linkedin.png" height="40" alt="Link"  /> </a>
   <img width="12" /> 
 
   <a href="https://www.instagram.com/ishaan_mittal10/">
-  <img src="https://cdn-icons-png.flaticon.com/512/5709/5709766.png" height="40" alt="Insta"  />
-  <img width="12" /> </a>
+  <img src="https://cdn-icons-png.flaticon.com/512/5709/5709766.png" height="40" alt="Insta"  /> </a>
+  <img width="12" /> 
 
   <a href="https://x.com/MathGamerBS">
-  <img src="https://img.icons8.com/win8/512/7950F2/twitter.png" height="40" alt="X"  />
-  <img width="12" /> </a>
+  <img src="https://img.icons8.com/win8/512/7950F2/twitter.png" height="40" alt="X"  /> </a>
+  <img width="12" /> 
 
   <a href="https://www.youtube.com/channel/UCmyGY_DIlHlpOY1rFSd92QQ">
-  <img src="https://i.pinimg.com/originals/fc/cb/4b/fccb4b8a1ee3bfcf498b8dd27a925573.png" height="40" alt="Youtube"  />
-  <img width="12" /> </a>
+  <img src="https://i.pinimg.com/originals/fc/cb/4b/fccb4b8a1ee3bfcf498b8dd27a925573.png" height="40" alt="Youtube"  /> </a>
+  <img width="12" /> 
 </div>
 
 <!--
