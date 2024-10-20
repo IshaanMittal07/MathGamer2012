@@ -13,8 +13,8 @@ Hello! My name is Ishaan Mittal and I am currently a grade 12 student attending 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ishaan-mittal-b6bb47330/">
-  <img src="https://www.citypng.com/public/uploads/preview/download-linkedin-square-purple-icon-png-701751694974001rjxj2ew7jc.png" height="40" alt="Link"  />
-  <img width="12" /> </a>
+  <img src="https://www.citypng.com/public/uploads/preview/download-linkedin-square-purple-icon-png-701751694974001rjxj2ew7jc.png" height="40" alt="Link"  /> </a>
+  <img width="12" /> 
 
   <a href="https://www.instagram.com/ishaan_mittal10/">
   <img src="https://cdn-icons-png.flaticon.com/512/5709/5709766.png" height="40" alt="Insta"  />
